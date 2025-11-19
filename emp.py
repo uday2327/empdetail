@@ -12,6 +12,8 @@ print("Employee department:", emp_department = "IT"
 )
 print("Employee Salary:",emp_salary)
 
+print("Status Active")
+
 
 
 
